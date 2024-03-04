@@ -13,13 +13,10 @@ a {
 
 
 @media screen and (min-width:768px) {
- p{display: block; 
+ p{display: inline-block; 
    font-size:9pt;
    letter-spacing: 0.1em;
    line-height: 2.2em;
-   padding-left: 0vw;
-   padding-top:0vw;
-   margin:auto;
    margin-top: 0vw;
    margin-left: 0.8vw;
    margin-bottom: 4.95vw;
