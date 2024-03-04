@@ -6,13 +6,14 @@ a {
     color: #4d4d4d;;
   }
 
-  body {
-    background-color:#ffffff;
-    font-family:"游明朝体","游明朝","serif";
-  }
+  
 
 
 @media screen and (min-width:768px) {
+ body {
+    background-color:#ffffff;
+    font-family:"游明朝体","游明朝","serif";
+  }
  p{display: inline-block; 
    font-size:9pt;
    letter-spacing: 0.1em;
@@ -139,8 +140,12 @@ a {
  
  
  @media screen  and ( max-width:768px) {
+    body {
+    background-color:#ffffff;
+    font-family:"游明朝","serif";
+  }
       p{display: block; 
-   font-size:9pt;
+   font-size:9.5pt;
    letter-spacing: 0.05em;
    line-height: 2.0em;
    margin-top: 0vw;
