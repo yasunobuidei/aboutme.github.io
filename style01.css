@@ -142,7 +142,7 @@ a {
  @media screen  and ( max-width:768px) {
     body {
     background-color:#ffffff;
-    font-family:"游明朝","serif";
+    font-family:"游明朝","游明朝体","serif";
   }
       p{display: block; 
    font-size:9.5pt;
