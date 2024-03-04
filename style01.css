@@ -16,7 +16,7 @@ a {
  p{display: block; 
    font-size:9pt;
    letter-spacing: 0.1em;
-   line-height: 2.2em
+   line-height: 2.2em;
    margin-top: 0vw;
    margin-left: 0.8vw;
    margin-bottom: 4.95vw;
@@ -99,6 +99,7 @@ a {
     margin-bottom:0vw;
     margin-left:0.8vw;
     margin-top: 0px;
+    margin-right:0vw;
 
  
  
@@ -109,6 +110,7 @@ a {
     margin-bottom:0vw;
     margin-left:0.8vw;
     margin-top: 7.65px;
+    margin-right:0vw;
 
  
  
