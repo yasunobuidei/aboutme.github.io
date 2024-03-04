@@ -141,8 +141,8 @@ a {
  @media screen  and ( max-width:768px) {
       p{display: block; 
    font-size:9pt;
-   letter-spacing: 0.1em;
-   line-height: 2.2em;
+   letter-spacing: 0.05em;
+   line-height: 2.0em;
    margin-top: 0vw;
    margin-left: 0.8vw;
    margin-bottom: 6.5vw;
