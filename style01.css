@@ -16,6 +16,7 @@ a {
   }
  p{display: inline-block; 
    font-size:9pt;
+   width: 48.8vw;
    letter-spacing: 0.1em;
    line-height: 2.2em;
    margin-top: 0vw;
@@ -146,10 +147,11 @@ a {
   }
       p{display: block; 
    font-size:9.5pt;
+   width: 96.13vw;
    letter-spacing: 0.05em;
    line-height: 2.0em;
    margin-top: 0vw;
-   margin-left: 0.8vw;
+   margin-left: 1.93vw;
    margin-bottom: 6.5vw;
      
  }
@@ -221,11 +223,11 @@ a {
 
 
 
- #me{width: 98.4vw;
+ #me{width: 96.13vw;
     display: block; 
     margin: auto;
-    margin-bottom:0.8vw;
-    margin-left:0.8vw;
+    margin-bottom:1.93vw;
+    margin-left:1.93vw;
     margin-top: 0px;
 
  
