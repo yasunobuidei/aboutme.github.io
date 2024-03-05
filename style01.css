@@ -11,7 +11,7 @@ a {
 
 @media screen and (min-width:768px) {
  body {
-    background-color:#ffffff;
+    background-color:#fffffc;
     font-family:"游明朝体","游明朝","serif";
   }
  p{display: inline-block; 
@@ -141,7 +141,7 @@ a {
  
  @media screen  and ( max-width:768px) {
     body {
-    background-color:#ffffff;
+    background-color:#fffffc;
     font-family:"游明朝","游明朝体","serif";
   }
       p{display: block; 
